@@ -17,6 +17,7 @@ DOMAIN, proactivebackend-pa.googleapis.com
 #youtube
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,ipify.org
 
 #others
 DOMAIN,voice.telephony.goog
